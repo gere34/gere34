@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gere34
+- 👋 Hi, I’m @William Gerenge
 - 👀 I’m interested in app creation
 - 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on software development
